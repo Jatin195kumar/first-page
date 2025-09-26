@@ -1,0 +1,26 @@
+div {
+  width: 700px;
+  border: 50px solid green;
+  padding: 50px;
+  margin: 20px;
+  height: 500px;
+  background-image: url("1.png");
+  image-orientation:from-image;
+  background-size: 700px;
+  background-position: 0%;
+
+}
+.content {
+    background: rgb(225, 180, 180);
+    font-size: 48px;
+    width:400px;
+    border:1px;
+    height:200px;
+    margin-left: 100px;
+    margin-right:50px;
+    margin-top:100px;
+    
+    
+}
+
+
